@@ -4,4 +4,7 @@
     "editor.defaultFormatter": "rvest.vs-code-prettier-eslint",
     "editor.tabSize": 2,
     "jest.runMode": "on-demand",
+    "files.exclude": {
+        "**/.git": false
+   }
 }
