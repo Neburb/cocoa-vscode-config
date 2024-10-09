@@ -1,5 +1,5 @@
 {
-    "jest.jestCommandLine": "npx eslint",
+    "jest.jestCommandLine": "yarn lint",
     "typescript.tsdk": "node_modules/typescript/lib",
     "editor.defaultFormatter": "rvest.vs-code-prettier-eslint",
     "editor.tabSize": 2,
